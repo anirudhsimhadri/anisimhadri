@@ -1,0 +1,13 @@
+<!doctype html> 
+<html>
+  <head>
+  </head>
+  <body style='background-color:lightblue'>
+    <h1 style='border-left: 1px solid blue; padding: 10px'> The internet is a series of links! </h1> 
+    <hr />
+   <div>
+        <a href='http://127.0.0.1:5500/Virus.html'>Click Here to download a virus</a>.
+
+    </div>
+  </body>
+</html>
